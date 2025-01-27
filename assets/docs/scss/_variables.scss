@@ -97,6 +97,17 @@ $btn-link-hover-color:        var(--#{$prefix}link-hover-color);
     --purple-100-hsl: 266.4, 28.09%, 82.55%;
     --purple-50-hsl: 270, 27.78%, 92.94%;
 
+    --orange-900-hsl: 24.58, 95.4%, 17.06%;
+    --orange-800-hsl: 24.88, 95.35%, 25.29%;
+    --orange-700-hsl: 24.66, 95.32%, 33.53%;
+    --orange-600-hsl: 24.83, 95.31%, 41.76%;
+    --orange-500-hsl: 24.69, 95.29%, 50%;
+    --orange-400-hsl: 24.69, 95.05%, 60.39%;
+    --orange-300-hsl: 24.68, 95.92%, 71.18%;
+    --orange-200-hsl: 24.67, 95.74%, 81.57%;
+    --orange-100-hsl: 24.62, 95.12%, 91.96%;
+    --orange-50-hsl: 25.71, 100%, 97.25%;
+
     --emerald-900-hsl: 165, 97%, 13%;
     --emerald-800-hsl: 164, 96%, 18%;
     --emerald-700-hsl: 163, 93%, 23%;
@@ -196,6 +207,17 @@ $btn-link-hover-color:        var(--#{$prefix}link-hover-color);
     --purple-100: hsl(var(--purple-100-hsl));
     --purple-50: hsl(var(--purple-50-hsl));
 
+    --orange-900: hsl(var(--orange-900-hsl));
+    --orange-800: hsl(var(--orange-800-hsl));
+    --orange-700: hsl(var(--orange-700-hsl));
+    --orange-600: hsl(var(--orange-600-hsl));
+    --orange-500: hsl(var(--orange-500-hsl));
+    --orange-400: hsl(var(--orange-400-hsl));
+    --orange-300: hsl(var(--orange-300-hsl));
+    --orange-200: hsl(var(--orange-200-hsl));
+    --orange-100: hsl(var(--orange-100-hsl));
+    --orange-50: hsl(var(--orange-50-hsl));
+
     --emerald-900: hsl(var(--emerald-900-hsl));
     --emerald-800: hsl(var(--emerald-800-hsl));
     --emerald-700: hsl(var(--emerald-700-hsl));
@@ -215,6 +237,7 @@ $btn-link-hover-color:        var(--#{$prefix}link-hover-color);
     --cardinal: var(--cardinal-500);
     --magenta: var(--magenta-500);
     --purple: var(--purple-500);
+    --orange: var(--orange-500);
     --emerald: var(--emerald-500);
 
     --secondary: var(--gray-600);
